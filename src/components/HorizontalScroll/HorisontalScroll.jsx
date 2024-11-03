@@ -196,14 +196,14 @@ function HorisontalScroll(props) {
       {totalPages > 1 ? (
         <>
           <div className="hs_pages-widget">{getWidget()}</div>
-          {/* <div className="hs_action-btns">
+          <div className="hs_action-btns">
             <button onClick={() => handleScroll(getShiftValue(true))}>
               Scroll Left
             </button>
             <button onClick={() => handleScroll(getShiftValue(false))}>
               Scroll Right
             </button>
-          </div> */}
+          </div>
         </>
       ) : null}
     </div>
