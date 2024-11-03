@@ -1,5 +1,4 @@
 # Fake Shopping App
-
 ## Description
 This app uses the [Fake Store API](https://fakestoreapi.com) to get product data and provides users with the ability to view, add to favorites and manage their shopping cart.
 
@@ -39,7 +38,6 @@ Follow these steps to install and run the project:
 - [Fake Store API](https://fakestoreapi.com) - free RESTful API that provides developers with sample product data across various categories for testing and prototyping applications.
 
 ## Scripts
-
 -  `npm run dev` — Runs the project in development mode with Vite.
 -  `npm run build` — Compiles the project using TypeScript and creates an assembly with Vite.
 -  `npm run lint` — Checks the code for errors using ESLint.
