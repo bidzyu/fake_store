@@ -2,8 +2,8 @@
 ## Description
 This app uses the [Fake Store API](https://fakestoreapi.com) to get product data and provides users with the ability to view, add to favorites and manage their shopping cart.
 
-* [FAKE STORE](https://goldfakestore.netlify.app)
-![Preview of the project](public/rm.title.png)
+
+
 
 ## Prerequisites
 - [Node.js](https://nodejs.org/) (recommended version: 18.x or higher)
